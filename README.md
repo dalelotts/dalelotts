@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * Extreme Programming coach and mentor.
 * Trainer (Java, JavaScript, React, Angular, Node, serverless, cloud architecture, software engineering)
 * Public Speaker
+* Mentor [![Contact me on Codementor](https://www.codementor.io/m-badges/dalelotts/get-help.svg)](https://www.codementor.io/@dalelotts?refer=badge)
 
 ## About me
 
